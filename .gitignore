@@ -1,0 +1,8 @@
+log/*
+*.index
+*.meta
+*.npy
+/test/*
+/train/*
+.ipynb_checkpoints
+dogsvscats-0.001-2conv-basic.model.data-00000-of-00001
